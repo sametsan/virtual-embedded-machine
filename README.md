@@ -17,3 +17,5 @@ Test edilecek program bunun içerisine import edilmelidir.
 
 # Simulator
 Driver kullanımını simule edebilmek için ve veri gönderip alabileceğiniz uygulama.
+
+![Scheme](scheme.png)
